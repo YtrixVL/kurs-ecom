@@ -1,5 +1,3 @@
-# e-commerce sveltekit-tailwind app
-
 ## Запуск
 
 ```bash
